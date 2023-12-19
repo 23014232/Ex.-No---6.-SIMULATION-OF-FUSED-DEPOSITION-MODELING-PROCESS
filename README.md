@@ -16,14 +16,15 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![Screenshot 2023-12-19 160301](https://github.com/23014232/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150231872/16865ea0-e239-4176-9f90-76b10b78dda6)
+![Screenshot 2023-12-19 160323](https://github.com/23014232/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150231872/1238afa0-27a4-4288-b2f7-9cb4e1c79f5c)
+![Screenshot 2023-12-19 160641](https://github.com/23014232/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150231872/007699c1-ca56-42b8-bb45-4e63484be65e)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:P.RAGUL
+### Register Number:23014232
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
